@@ -1,5 +1,5 @@
-# GED
-G.E.D. - Generate Enormous Data
+# G.E.D.
+GED - Generate Enormous Data
 
     Not GOD, it's GED. A php script for creating MSSQL data using classic INSERT statement or STORED PROCEDURES.
     Supply some data and GOD, GED! will create them for you! ;) 
