@@ -11,3 +11,9 @@ GED - Generate Enormous Data
   - Supply a file or crawl a site.
   - UI?
   - And many more...
+
+# IMAGES
+raw data:
+<img src="https://raw.githubusercontent.com/theykneel/GED/master/images/raw.PNG"/>
+processed data:
+<img src="https://raw.githubusercontent.com/theykneel/GED/master/images/processed.PNG"/>
